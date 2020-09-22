@@ -1,0 +1,20 @@
+
+layout:     post
+title:      使用Flask来开发一些小程序
+subtitle:   学习Python
+date:       2020-9-22
+author:     Hailong
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Blog
+---
+
+## 背景
+我为什么要学习Flask呢，因为我想自己做一个小的程序，用来帮助自己提搞效率
+
+## 目标
+* 学会Flask的操作：
+- 数据库操作
+- 界面操作
+
